@@ -1,7 +1,6 @@
 # Starfly
-wow this stuff is so gr9
 
-[le placeholder meme]
+[This will be populated when coding has occurred]
 
 # 1. Installation
 
@@ -9,8 +8,13 @@ Clone this project and then run the main Java class.
 
 # 2. How to play
 
-Use the up and down arrow keys to dodge randomly generated asteroids.
+[This will be populated when coding has occurred]
 
-# 3. Dank Memes
+# 3. To-do List:
 
-- [ ] To be added later...
+This is a comprehensive list that will hopefully be able to retain all the item forever in order to track progress, however, if it becomes too long it might be moved to its own separate text file.
+
+- [ ] Begin coding
+- [ ] Upload program to GitHub
+- [ ] Populate text fields
+- [ ] Add to list once these things are done
